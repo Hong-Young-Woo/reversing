@@ -1,2 +1,2 @@
-# winmine - windows xp mine game analysis
+# winmine - windows xp 
 
